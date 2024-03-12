@@ -1,6 +1,6 @@
 import { defineComponent } from 'strve-js';
 import router from './router/index';
-import './styles/app';
+import './styles/app.css';
 
 defineComponent(
   {

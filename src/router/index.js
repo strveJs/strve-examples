@@ -15,7 +15,7 @@ const router = initRouter(
   [
     {
       path: '/',
-      template: BlackWhiteGum,
+      template: TwoWay,
     },
   ],
   resetView
