@@ -1,6 +1,6 @@
 {
-  "name": "app",
-  "version": "6.2.7",
+  "name": "strve-examples",
+  "version": "0.0.0",
   "license": "MIT",
   "scripts": {
     "dev": "vite --open",
